@@ -87,8 +87,8 @@ v2/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/sdg-synergy-mapper.git
-   cd sdg-synergy-mapper/v2
+   git clone https://github.com/1Gaurav26/sdg-synergy-mapper.git
+   cd sdg-synergy-mapper
    ```
 
 2. **Install dependencies**
@@ -99,7 +99,6 @@ v2/
 3. **Run the application**
    ```bash
     & e:/sdg-synergy-mapper/sdg/Scripts/Activate.ps1
-    cd v2
    streamlit run app/main.py
    ```
 
@@ -376,4 +375,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ for Sustainable Development**
+
 
